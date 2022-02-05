@@ -6,8 +6,46 @@ title: 'MoCa:  Project Episode Videos'
 uid: 1af754b7-f4a3-da81-9558-39c7d731a9b3
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  | Episode 3 |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**None for this session. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/mocaembed08) &#124; [project home]({{< baseurl >}}/pages/projects/moca) &#124; [next project page >]({{< baseurl >}}/pages/projects/mocaembed10) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Episode 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**None for this session.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed08) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed10)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=1957271&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

@@ -6,8 +6,50 @@ title: 'M-commerce Mobile Commerce:  Milestone Presentations'
 uid: c973d5e7-7b5f-e621-2afa-a72217624c50
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milestone 4: Sustainability {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) &#124; [project home]({{< baseurl >}}/pages/projects/mcommerce) &#124; [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milestone 4: Sustainability
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_mcomm_m4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed06) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed08)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=3187212&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

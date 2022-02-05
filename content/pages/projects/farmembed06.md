@@ -6,8 +6,50 @@ title: 'Giving Farmers a Fighting Chance:  Milestone Presentations'
 uid: efd30e04-b66f-50ac-898c-ac8ff274c974
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milestone 3: System Design and Initial Implementation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**None for this session. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/farmembed05) &#124; [project home]({{< baseurl >}}/pages/projects/farm) &#124; [next project page >]({{< baseurl >}}/pages/projects/farmembed07) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milestone 3: System Design and Initial Implementation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**None for this session.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed05) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed07)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2235444&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

@@ -21,27 +21,158 @@ Partners
 Project Team
 ------------
 
-| **ROLES** | **TEAM MEMBERS** |
-| --- | --- |
-| Students | Jon Varsanik  {{< br >}}& two anonymous MIT students |
-| Video journalists  {{< br >}}(from Emerson College) | Brian Moore  {{< br >}}Julianne Palazzo |
-| Advisor | Andrés Monroy-Hernandez 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+**ROLES**
+{{< thclose >}}
+{{< thopen >}}
+**TEAM MEMBERS**
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+Jon Varsanik  
+& two anonymous MIT students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video journalists  
+(from Emerson College)
+{{< tdclose >}}
+{{< tdopen >}}
+Brian Moore  
+Julianne Palazzo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advisor
+{{< tdclose >}}
+{{< tdopen >}}
+Andrés Monroy-Hernandez
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Documentation
 ---------------------
 
 Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
-| DELIVERABLE | VIDEOS AND SLIDES |
-| --- | --- |
-| {{< td-colspan 2 >}}**FINAL PROJECT**{{< /td-colspan >}} ||
-| Summary |  {{< br >}}{{< br >}} [Telmex Fellows Forum final video Fall 2008](https://vimeo.com/4873266) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}  |
-| Demonstration |  {{< br >}}{{< br >}} [Telmex Fellows Forum demo video Fall 2008](https://vimeo.com/4872804) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}  |
-| Final Class Presentation |  {{< br >}}{{< br >}} [Telmex Fellows Forum Final Presentation](https://vimeo.com/3151171) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}   {{< br >}}[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_final) |
-| {{< td-colspan 2 >}}**MILESTONE PRESENTATIONS**{{< /td-colspan >}} ||
-| Milestone 1: Elevator Pitch | [PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m1) |
-| Milestone 2: Needs Assessment | [PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m2) |
-| Milestone 3: System Design and Initial Implementation |  {{< br >}}{{< br >}} [fellows forum milestone 3](https://vimeo.com/2570324) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}   {{< br >}}[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m3) |
-| Milestone 4: Sustainability | [PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m4) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DELIVERABLE
+{{< thclose >}}
+{{< thopen >}}
+VIDEOS AND SLIDES
+{{< thclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**FINAL PROJECT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Telmex Fellows Forum final video Fall 2008](https://vimeo.com/4873266) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Demonstration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Telmex Fellows Forum demo video Fall 2008](https://vimeo.com/4872804) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Class Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Telmex Fellows Forum Final Presentation](https://vimeo.com/3151171) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+  
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_final)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**MILESTONE PRESENTATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 1: Elevator Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 2: Needs Assessment
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 3: System Design and Initial Implementation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[fellows forum milestone 3](https://vimeo.com/2570324) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+  
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 4: Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_fellows_m4)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+[\< back to project index]({{< baseurl >}}/pages/projects)

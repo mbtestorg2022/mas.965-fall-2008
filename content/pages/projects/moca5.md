@@ -31,7 +31,7 @@ I'm looking forward to learning more about the Zambia process as well - this pro
 
 I'm going to be posting out updates throughout the next three months that we'll be working on this project. Your feedback would be great. This really is the best type of open innovation project. We have leading faculty from MIT, Harvard, one of the top companies in the world in GE and an important non-profit in CIDRZ. The core project team is two bioengineers, an industrial designer from the Media Lab, a programmer and me, the MBA. Let's see how it goes and if we can help make a big leap scalable across the developing world in improving rural health care.
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)
 
 **Solution evolves towards medical image workflow management**  
 September 21st, 2008  
@@ -45,7 +45,7 @@ We're also exploring the possibly of using Eye-Fi or other technologies to accel
 
 We're realizing that this has the potential to scale out not just the CIDRZ model, but be re-usable for other rural health models. It's interesting to think about this in terms of being able to help millions of people. The Emerson communications team that is working with us to document the project will be posting some videos soon for anyone who is interested in learning more about the project. Any ideas or possibilities for collaboration are welcome!
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)
 
 **NextLab team collaborates with OpenMRS to scale solution**  
 October 1, 2008  
@@ -61,7 +61,7 @@ I'm curious to learn more about OpenMRS – it looks scalable and robust from it
 
 There's another team working on a front-end Android interface for medical records imaging led by Zach Anderson, a MIT Course 6 programmer that we are collaborating with as well. It sounds like they too will be compatible with OpenMRS. More on that collaboration in another post as I learn more about what specifically they are doing.
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)
 
 **Debating GPL versus BSD software license**  
 October 27, 2008  
@@ -78,7 +78,7 @@ FossWire also has a [good comparison here](https://fosswire.com/post/2007/04/the
 
 What are we going to do with our open source mobile diagnostics workflow solution? As an open source software project, we'd like to license it out for non-profit use and use in the developing world for free. But we also think it's possible our software might be modified for for-profit use in the developed world. In this case, we would want a reciprocal contribution - a donation, either in funding or code. I'm thinking that means GPL. GPL means that if another organizations uses or modifies any code your organization produces that code must also be licensed under the same terms.
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)
 
 **Update on application progress**  
 November 10, 2008
@@ -102,7 +102,7 @@ As you can see, we have a complete end-to-end solution in place. While there is 
 _Website_  
 I registered a SourceForge Open Source project and it was approved today. They will host the code and allow others to contribute to the project. I have also set up a Documentation Wiki; there currently isn't anything on the Wiki, so in the coming few weeks we will want to start documenting the system.
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)
 
 **Update on new partners**  
 December 1st, 2008
@@ -118,4 +118,4 @@ Leo Anthony Celi, our MD advisor from Harvard Medical School, recruited new part
 
 We're looking at deploying in the Phillipines in January through March and learning more about how MoCa can meet the needs of patients there.  Things are breaking fast for MoCa - there seems to be a ton of interest in our solution.
 
-[< back to MoCa]({{< baseurl >}}/pages/projects/moca)
+[\< back to MoCa]({{< baseurl >}}/pages/projects/moca)

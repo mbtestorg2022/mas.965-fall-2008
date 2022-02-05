@@ -6,7 +6,49 @@ title: 'Get New Money:  Milestone Presentations'
 uid: f43b7683-0816-53c6-89fe-607b2ca2e690
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milestone 4: Sustainability {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/moneyembed06) &#124; [project home]({{< baseurl >}}/pages/projects/getnewmoney) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milestone 4: Sustainability
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed06) | [project home]({{< baseurl >}}/pages/projects/getnewmoney)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 No video available for this session.

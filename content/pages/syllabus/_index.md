@@ -92,30 +92,282 @@ Because important work for this course will be done during class time, attendanc
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class participation and paper in-class discussion | 20% (individual grade) |
-| Working prototype | 40% (team grade) |
-| Sustainability plan | 20% (team grade) |
-| End-of-term public presentation | 20% (both individual and team grade) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation and paper in-class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20% (individual grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Working prototype
+{{< tdclose >}}
+{{< tdopen >}}
+40% (team grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sustainability plan
+{{< tdclose >}}
+{{< tdopen >}}
+20% (team grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term public presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20% (both individual and team grade)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Schedule
 ---------------
 
-| WEEK # | IN-CLASS DISCUSSION AND CASE STUDIES | GUIDED DESIGN PROCESS |
-| --- | --- | --- |
-| 1 | &nbsp; | Introduction to NextLab |
-| 2 | Project proposal presentations |  {{< br >}}{{< br >}} Needs assessment {{< br >}}{{< br >}} Team formation {{< br >}}{{< br >}} Class logistics {{< br >}}{{< br >}}  |
-| 3 | Planning ICT4D interventions |  {{< br >}}{{< br >}} Economic and social conditions {{< br >}}{{< br >}} Technology survey / ICT penetration {{< br >}}{{< br >}}  |
-| 4 | _No class_ | Milestone 1: elevator pitch, including related work |
-| 5 | Social and cultural considerations | Milestone 1 (cont.) |
-| 6 | ICT4D history | Milestone 2: needs assessment results |
-| 7 | _No class (holiday)_ | Milestone 2 (cont.) |
-| 8 | Interfaces | Milestone 3: system design and initial implementation results |
-| 9 | Health | Milestone 3 (cont.) |
-| 10 |  {{< br >}}{{< br >}} Disaster management {{< br >}}{{< br >}} Health (cont.) {{< br >}}{{< br >}}  | Milestone 4: sustainability and financial factors |
-| 11 | _No class (holiday)_ | Milestone 4 (cont.) |
-| 12 | Education | Mobile money and transactions |
-| 13 |  {{< br >}}{{< br >}} Environment and other applications {{< br >}}{{< br >}} Milestone 5: demo {{< br >}}{{< br >}}  | Milestone 5 (cont.) |
-| 14 | Milestone 6: final presentation practice | Milestone 6 (cont.) |
-| 15 | Conclusion | Final presentation event
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS DISCUSSION AND CASE STUDIES
+{{< thclose >}}
+{{< thopen >}}
+GUIDED DESIGN PROCESS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to NextLab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Needs assessment
+
+Team formation
+
+Class logistics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Planning ICT4D interventions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Economic and social conditions
+
+Technology survey / ICT penetration
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_No class_
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 1: elevator pitch, including related work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Social and cultural considerations
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 1 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ICT4D history
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 2: needs assessment results
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_No class (holiday)_
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 2 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 3: system design and initial implementation results
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Health
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 3 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Disaster management
+
+Health (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 4: sustainability and financial factors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_No class (holiday)_
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 4 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Education
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile money and transactions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Environment and other applications
+
+Milestone 5: demo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 5 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 6: final presentation practice
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 6 (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation event
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

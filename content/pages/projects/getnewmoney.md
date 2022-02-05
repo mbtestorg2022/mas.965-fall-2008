@@ -27,27 +27,158 @@ Partners
 Project Team
 ------------
 
-| **ROLES** | **TEAM MEMBERS** |
-| --- | --- |
-| Students | Three anonymous MIT students |
-| Video journalists  {{< br >}}(from Emerson College) | Helyne Adamson  {{< br >}}Josh Kirchmer |
-| Advisor | Elisabeth Megally 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+**ROLES**
+{{< thclose >}}
+{{< thopen >}}
+**TEAM MEMBERS**
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+Three anonymous MIT students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video journalists  
+(from Emerson College)
+{{< tdclose >}}
+{{< tdopen >}}
+Helyne Adamson  
+Josh Kirchmer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advisor
+{{< tdclose >}}
+{{< tdopen >}}
+Elisabeth Megally
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Documentation
 ---------------------
 
 Slides are presented courtesy of the students, used with permission. Videos are from [nextlab](https://vimeo.com/nextlab/) on Vimeo, and are not covered by our [Creative Commons license](/terms/#cc).
 
-| DELIVERABLE | VIDEOS AND SLIDES |
-| --- | --- |
-| {{< td-colspan 2 >}}**FINAL PROJECT**{{< /td-colspan >}} ||
-| Summary |  {{< br >}}{{< br >}} [Get New Money final video Fall 2008](https://vimeo.com/4885730) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}  |
-| Demonstration |  {{< br >}}{{< br >}} [Get New Money demo video Fall 2008](https://vimeo.com/4872914) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}  |
-| Final Class Presentation |  {{< br >}}{{< br >}} [Get New Money Final Presentation](https://vimeo.com/3145303) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}   {{< br >}}[PDF  {{< br >}}]({{< baseurl >}}/resources/mitmas_965f08_money_final) |
-| {{< td-colspan 2 >}}**MILESTONE PRESENTATIONS**{{< /td-colspan >}} ||
-| Milestone 1: Elevator Pitch | [PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m1) |
-| Milestone 2: Needs Assessment | [PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m2) |
-| Milestone 3: System Design and Initial Implementation | [PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3) |
-| Milestone 4: Sustainability |  {{< br >}}{{< br >}} [Get New Money Milestone 4/Sustainability Plan](https://vimeo.com/3187230) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com). {{< br >}}{{< br >}}   {{< br >}}[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DELIVERABLE
+{{< thclose >}}
+{{< thopen >}}
+VIDEOS AND SLIDES
+{{< thclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**FINAL PROJECT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Get New Money final video Fall 2008](https://vimeo.com/4885730) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Demonstration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Get New Money demo video Fall 2008](https://vimeo.com/4872914) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Class Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Get New Money Final Presentation](https://vimeo.com/3145303) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+  
+[PDF  
+]({{< baseurl >}}/resources/mitmas_965f08_money_final)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**MILESTONE PRESENTATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 1: Elevator Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 2: Needs Assessment
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 3: System Design and Initial Implementation
+{{< tdclose >}}
+{{< tdopen >}}
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Milestone 4: Sustainability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Get New Money Milestone 4/Sustainability Plan](https://vimeo.com/3187230) from [nextlab](https://vimeo.com/nextlab) on [Vimeo](https://vimeo.com).
+
+  
+[PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m4)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+[\< back to project index]({{< baseurl >}}/pages/projects)

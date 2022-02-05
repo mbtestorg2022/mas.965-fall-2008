@@ -22,14 +22,72 @@ Project Team Pages
 
 From a longer list of potential projects, student teams worked on the following seven projects.  Each of the following links goes to a page presenting videos and slides of final results, as well as interim milestones and some supplemental project materials.
 
-| **ECONOMIC EMPOWERMENT** |
-| [Giving Farmers a Fighting Chance]({{< baseurl >}}/pages/projects/farm) (with ITESM Zacatecas, Mexico) |
-| [Get New Money: Multilevel marketing for microfinance]({{< baseurl >}}/pages/projects/getnewmoney) (with Cobiscorp Bank, Ecuador) |
-| [M-commerce]({{< baseurl >}}/pages/projects/mcommerce) (with United Villages, India) |
-| **HEALTH** |
-| [MoCa: Mobile diagnostics for cervical cancer]({{< baseurl >}}/pages/projects/moca) (with CIDRZ, Zambia) |
-| **EDUCATION** |
-| [Fellows Forum: Mobile social network for students in low-income communities]({{< baseurl >}}/pages/projects/fellows) (with Telmex, Mexico) |
-| **ENVIRONMENT AND COMMUNITY** |
-| [NextMap: Disaster Management]({{< baseurl >}}/pages/projects/nextmap) (with CRS, India and InnovGreen, Vietnam) |
-| [Thrive in 5 Baby Blog]({{< baseurl >}}/pages/projects/thrive5) (with Mayor’s Office, Boston)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**ECONOMIC EMPOWERMENT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Giving Farmers a Fighting Chance]({{< baseurl >}}/pages/projects/farm) (with ITESM Zacatecas, Mexico)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Get New Money: Multilevel marketing for microfinance]({{< baseurl >}}/pages/projects/getnewmoney) (with Cobiscorp Bank, Ecuador)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[M-commerce]({{< baseurl >}}/pages/projects/mcommerce) (with United Villages, India)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**HEALTH**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[MoCa: Mobile diagnostics for cervical cancer]({{< baseurl >}}/pages/projects/moca) (with CIDRZ, Zambia)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**EDUCATION**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fellows Forum: Mobile social network for students in low-income communities]({{< baseurl >}}/pages/projects/fellows) (with Telmex, Mexico)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**ENVIRONMENT AND COMMUNITY**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[NextMap: Disaster Management]({{< baseurl >}}/pages/projects/nextmap) (with CRS, India and InnovGreen, Vietnam)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Thrive in 5 Baby Blog]({{< baseurl >}}/pages/projects/thrive5) (with Mayor’s Office, Boston)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

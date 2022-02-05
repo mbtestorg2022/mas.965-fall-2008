@@ -6,8 +6,50 @@ title: 'M-commerce Mobile Commerce:  Project Episode Videos'
 uid: f609eefc-bdd6-8912-29a3-1e191493d0fc
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Episode 3: Logistics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**None for this session. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) &#124; [project home]({{< baseurl >}}/pages/projects/mcommerce) &#124; [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Episode 3: Logistics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**None for this session.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/mcommerceembed09) | [project home]({{< baseurl >}}/pages/projects/mcommerce) | [next project page >]({{< baseurl >}}/pages/projects/mcommerceembed11)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=1919091&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)[](http://vimeo.com/moogaloop.swf?clip_id=1861773&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

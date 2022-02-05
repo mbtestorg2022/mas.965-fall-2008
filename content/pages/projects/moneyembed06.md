@@ -6,8 +6,50 @@ title: 'Get New Money:  Milestone Presentations'
 uid: 1e982775-0aac-39ac-bc0d-d43285a07952
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milestone 3: System Design and Initial Implementation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) &#124; [project home]({{< baseurl >}}/pages/projects/getnewmoney) &#124; [next project page >]({{< baseurl >}}/pages/projects/moneyembed07) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milestone 3: System Design and Initial Implementation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_money_m3))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/moneyembed05) | [project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed07)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2325072&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

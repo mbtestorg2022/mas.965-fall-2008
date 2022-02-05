@@ -21,11 +21,48 @@ Boston, MA Mayor's Office, [Thrive in 5](http://www.thrivein5boston.org/) progra
 Project Team
 ------------
 
-| **ROLES** | **TEAM MEMBERS** |
-| --- | --- |
-| Students | Rashmi D. Melgiri  {{< br >}}and three other anonymous MIT students |
-| Video journalists  {{< br >}}(from Emerson College) | Patty Furukawa  {{< br >}}Javier Smith |
-| Advisor | Luis Sarmenta 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+**ROLES**
+{{< thclose >}}
+{{< thopen >}}
+**TEAM MEMBERS**
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+Rashmi D. Melgiri  
+and three other anonymous MIT students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video journalists  
+(from Emerson College)
+{{< tdclose >}}
+{{< tdopen >}}
+Patty Furukawa  
+Javier Smith
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advisor
+{{< tdclose >}}
+{{< tdopen >}}
+Luis Sarmenta
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Documentation  
  
@@ -33,17 +70,74 @@ Project Documentation
 
 The links in this table go to individual webpages containing videos, along with supporting materials like presentation slides where available. You can navigate through these pages in sequence using the links on the top of each page.
 
-| VIDEOS AND SLIDES |
-| --- |
-| **FINAL PROJECT** |
-| [Summary]({{< baseurl >}}/pages/projects/thriveembed01) |
-| [Demonstration]({{< baseurl >}}/pages/projects/thriveembed02) |
-| [Final Class Presentation]({{< baseurl >}}/pages/projects/thriveembed03) |
-| **MILESTONE PRESENTATIONS** |
-| [Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/thriveembed04) |
-| [Milestone 2: Needs Assessment Part 1]({{< baseurl >}}/pages/projects/thriveembed05) |
-| [Milestone 2: Needs Assessment Part 2]({{< baseurl >}}/pages/projects/thriveembed06) |
-| [Milestone 3: System Design and Initial Implementation]({{< baseurl >}}/pages/projects/thriveembed07) |
-| [Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/thriveembed08) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEOS AND SLIDES
+{{< thclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**FINAL PROJECT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Summary]({{< baseurl >}}/pages/projects/thriveembed01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Demonstration]({{< baseurl >}}/pages/projects/thriveembed02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final Class Presentation]({{< baseurl >}}/pages/projects/thriveembed03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**MILESTONE PRESENTATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/thriveembed04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 2: Needs Assessment Part 1]({{< baseurl >}}/pages/projects/thriveembed05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 2: Needs Assessment Part 2]({{< baseurl >}}/pages/projects/thriveembed06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 3: System Design and Initial Implementation]({{< baseurl >}}/pages/projects/thriveembed07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/thriveembed08)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+[\< back to project index]({{< baseurl >}}/pages/projects)

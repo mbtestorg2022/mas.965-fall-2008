@@ -6,8 +6,50 @@ title: 'Get New Money: Summary'
 uid: 0e78d430-1f73-065c-1583-f72b28e60bce
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Summary {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**None for this session. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [project home]({{< baseurl >}}/pages/projects/getnewmoney) &#124; [next project page >]({{< baseurl >}}/pages/projects/moneyembed02) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Summary
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**None for this session.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[project home]({{< baseurl >}}/pages/projects/getnewmoney) | [next project page >]({{< baseurl >}}/pages/projects/moneyembed02)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=4885730&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

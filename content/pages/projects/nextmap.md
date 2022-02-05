@@ -22,11 +22,50 @@ Partners
 Project Team
 ------------
 
-| **ROLES** | **TEAM MEMBERS** |
-| --- | --- |
-| Students | Sreya Sengupta  {{< br >}}Vijay Umapathy  {{< br >}}Jeffrey Warren  {{< br >}}Anonymous MIT student |
-| Video journalists  {{< br >}}(from Emerson College) | Nicholas Vaky  {{< br >}}Max Wagenblass |
-| Advisor | Rich Fletcher 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+**ROLES**
+{{< thclose >}}
+{{< thopen >}}
+**TEAM MEMBERS**
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+Sreya Sengupta  
+Vijay Umapathy  
+Jeffrey Warren  
+Anonymous MIT student
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video journalists  
+(from Emerson College)
+{{< tdclose >}}
+{{< tdopen >}}
+Nicholas Vaky  
+Max Wagenblass
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advisor
+{{< tdclose >}}
+{{< tdopen >}}
+Rich Fletcher
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Documentation  
  
@@ -34,26 +73,123 @@ Project Documentation
 
 The links in this table go to individual webpages containing videos, along with supporting materials like presentation slides where available. You can navigate through these pages in sequence using the links on the top of each page.
 
-| VIDEOS AND SLIDES |
-| --- |
-| **FINAL PROJECT** |
-| [Summary]({{< baseurl >}}/pages/projects/nextmapembed01) |
-| **DEMONSTRATIONS** |
-| [Catholic Relief Services – disaster assessment]({{< baseurl >}}/pages/projects/nextmapembed02) |
-| [InnovGreen - NextMap]({{< baseurl >}}/pages/projects/nextmapembed03) |
-| [Final Class Presentation]({{< baseurl >}}/pages/projects/nextmapembed04) |
-| **MILESTONE PRESENTATIONS** |
-| [Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/nextmapembed05) |
-| [Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/nextmapembed06) |
-| [Milestone 3:  System Design and Initial Implementation]({{< baseurl >}}/pages/projects/nextmapembed07) |
-| [Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/nextmapembed08) |
-| **PROJECT EPISODE VIDEOS** |
-| [Episode 1: Introduction]({{< baseurl >}}/pages/projects/nextmapembed09) |
-| [Episode 2: "Addressing the needs of CRS"]({{< baseurl >}}/pages/projects/nextmapembed10) |
-| [Episode 3: "Elevator Pitch"]({{< baseurl >}}/pages/projects/nextmapembed11) |
-| [Episode 4: "A Skype conversation with Innovgreen in Taiwan"]({{< baseurl >}}/pages/projects/nextmapembed12) |
-| [Episode 5: "A Coding Session"]({{< baseurl >}}/pages/projects/nextmapembed13) |
-| [Episode 6]({{< baseurl >}}/pages/projects/nextmapembed14) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEOS AND SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**FINAL PROJECT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Summary]({{< baseurl >}}/pages/projects/nextmapembed01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**DEMONSTRATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Catholic Relief Services – disaster assessment]({{< baseurl >}}/pages/projects/nextmapembed02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[InnovGreen - NextMap]({{< baseurl >}}/pages/projects/nextmapembed03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final Class Presentation]({{< baseurl >}}/pages/projects/nextmapembed04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**MILESTONE PRESENTATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/nextmapembed05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/nextmapembed06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 3:  System Design and Initial Implementation]({{< baseurl >}}/pages/projects/nextmapembed07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/nextmapembed08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**PROJECT EPISODE VIDEOS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 1: Introduction]({{< baseurl >}}/pages/projects/nextmapembed09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 2: "Addressing the needs of CRS"]({{< baseurl >}}/pages/projects/nextmapembed10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 3: "Elevator Pitch"]({{< baseurl >}}/pages/projects/nextmapembed11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 4: "A Skype conversation with Innovgreen in Taiwan"]({{< baseurl >}}/pages/projects/nextmapembed12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 5: "A Coding Session"]({{< baseurl >}}/pages/projects/nextmapembed13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 6]({{< baseurl >}}/pages/projects/nextmapembed14)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -63,4 +199,4 @@ Other Materials
 
 [Compiled status entries]({{< baseurl >}}/pages/projects/nextmap4) from "News" section of project blog
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+[\< back to project index]({{< baseurl >}}/pages/projects)

@@ -6,7 +6,49 @@ title: 'Giving Farmers a Fighting Chance:  Milestone Presentations'
 uid: 25b5dbbc-8dda-6260-11c1-27a3c7df6d05
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Milestone 2: Needs Assessment {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_farmers_m2)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/farmembed04) &#124; [project home]({{< baseurl >}}/pages/projects/farm) &#124; [next project page >]({{< baseurl >}}/pages/projects/farmembed06) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milestone 2: Needs Assessment
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_farmers_m2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/farmembed04) | [project home]({{< baseurl >}}/pages/projects/farm) | [next project page >]({{< baseurl >}}/pages/projects/farmembed06)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 No video available for this session.

@@ -6,8 +6,46 @@ title: 'MoCa: Milestone Presentations'
 uid: 0a7d9a01-dc5f-b725-a257-e2133cc6fa41
 ---
 
-|  {{< br >}}{{< br >}} **Topics covered:** {{< br >}}{{< br >}}  | Milestone 2: Needs Assessment |  {{< br >}}{{< br >}} **Resources:  {{< br >}}**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m2)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) &#124; [project home]({{< baseurl >}}/pages/projects/moca) &#124; [next project page >]({{< baseurl >}}/pages/projects/mocaembed06) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Topics covered:**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 2: Needs Assessment
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Resources:  
+**Slides ([PDF]({{< baseurl >}}/resources/mitmas_965f08_moca_m2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[\< previous project page]({{< baseurl >}}/pages/projects/mocaembed04) | [project home]({{< baseurl >}}/pages/projects/moca) | [next project page >]({{< baseurl >}}/pages/projects/mocaembed06)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Watch the video on Vimeo](http://vimeo.com/moogaloop.swf?clip_id=2069604&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=&fullscreen=0&group_id=)
 

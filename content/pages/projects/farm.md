@@ -29,11 +29,49 @@ ITESM ([Tecnológico de Monterrey](http://www.itesm.edu/)), Zacatecas, Mexico
 Project Team
 ------------
 
-| **ROLES** | **TEAM MEMBERS** |
-| --- | --- |
-| Students | Scot Frank  {{< br >}}M. Eshan Hoque  {{< br >}}& two anonymous MIT students |
-| Video journalists  {{< br >}}(from Emerson College) | Luke Einsiedler  {{< br >}}Paul Moore |
-| Advisor | Esmerelda Megally 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+**ROLES**
+{{< thclose >}}
+{{< thopen >}}
+**TEAM MEMBERS**
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+Scot Frank  
+M. Eshan Hoque  
+& two anonymous MIT students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video journalists  
+(from Emerson College)
+{{< tdclose >}}
+{{< tdopen >}}
+Luke Einsiedler  
+Paul Moore
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advisor
+{{< tdclose >}}
+{{< tdopen >}}
+Esmerelda Megally
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Documentation  
  
@@ -41,22 +79,104 @@ Project Documentation
 
 The links in this table go to individual webpages containing videos, along with supporting materials like presentation slides where available. You can navigate through these pages in sequence using the links on the top of each page.
 
-| VIDEOS AND SLIDES |
-| --- |
-| **FINAL PROJECT** |
-| [Summary]({{< baseurl >}}/pages/projects/farmembed01) |
-| [Demonstration]({{< baseurl >}}/pages/projects/farmembed02) |
-| [Final Class Presentation]({{< baseurl >}}/pages/projects/farmembed03) |
-| **MILESTONE PRESENTATIONS** |
-| [Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/farmembed04) |
-| [Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/farmembed05) |
-| [Milestone 3:  System Design and Initial Implementation]({{< baseurl >}}/pages/projects/farmembed06) |
-| [Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/farmembed07) |
-| **PROJECT EPISODE VIDEOS** |
-| [Episode 1: The Beginning]({{< baseurl >}}/pages/projects/farmembed08) |
-| [Episode 2: The Kickoff]({{< baseurl >}}/pages/projects/farmembed09) |
-| [Episode 3: Hanging Out]({{< baseurl >}}/pages/projects/farmembed10) |
-| [Episode 4: Case Studies]({{< baseurl >}}/pages/projects/farmembed11) |
-| [Episode 6: Building the Prototype]({{< baseurl >}}/pages/projects/farmembed12) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEOS AND SLIDES
+{{< thclose >}}
 
-[< back to project index]({{< baseurl >}}/pages/projects)
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**FINAL PROJECT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Summary]({{< baseurl >}}/pages/projects/farmembed01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Demonstration]({{< baseurl >}}/pages/projects/farmembed02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final Class Presentation]({{< baseurl >}}/pages/projects/farmembed03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**MILESTONE PRESENTATIONS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 1: Elevator Pitch]({{< baseurl >}}/pages/projects/farmembed04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 2: Needs Assessment]({{< baseurl >}}/pages/projects/farmembed05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 3:  System Design and Initial Implementation]({{< baseurl >}}/pages/projects/farmembed06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Milestone 4: Sustainability]({{< baseurl >}}/pages/projects/farmembed07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**PROJECT EPISODE VIDEOS**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 1: The Beginning]({{< baseurl >}}/pages/projects/farmembed08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 2: The Kickoff]({{< baseurl >}}/pages/projects/farmembed09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 3: Hanging Out]({{< baseurl >}}/pages/projects/farmembed10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 4: Case Studies]({{< baseurl >}}/pages/projects/farmembed11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Episode 6: Building the Prototype]({{< baseurl >}}/pages/projects/farmembed12)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+[\< back to project index]({{< baseurl >}}/pages/projects)
