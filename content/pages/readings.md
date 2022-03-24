@@ -47,14 +47,14 @@ Heeks, Richard. "ICT4D 2.0: The Next Phase of Applying ICT for International Dev
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Pentland, A., R. Fletcher, and A. Hassan. "DakNet: Rethinking Connectivity in Developing Nations." _IEEE Computer_ 37, no. 1. (January 2004): 78-83. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://hd.media.mit.edu/tech-reports/TR-565.pdf
+Pentland, A., R. Fletcher, and A. Hassan. "DakNet: Rethinking Connectivity in Developing Nations." _IEEE Computer_ 37, no. 1. (January 2004): 78-83. ([PDF](http://hd.media.mit.edu/tech-reports/TR-565.pdf
             ))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Hudelson, Patricia M. "Introduction," and "The Toolbox." Chapters 1 and 2 in _Qualitative Research for Health Programmes_. Geneva, Switzerland: World Health Organization, WHO/MNH/PSF/94.3, 1994. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://whqlibdoc.who.int/hq/1994/WHO_MNH_PSF_94.3.pdf)) (Pay particular attention to Chapter 2 section on focus groups.)
+Hudelson, Patricia M. "Introduction," and "The Toolbox." Chapters 1 and 2 in _Qualitative Research for Health Programmes_. Geneva, Switzerland: World Health Organization, WHO/MNH/PSF/94.3, 1994. ([PDF](http://whqlibdoc.who.int/hq/1994/WHO_MNH_PSF_94.3.pdf)) (Pay particular attention to Chapter 2 section on focus groups.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -168,7 +168,7 @@ Wells, Stewart, and Chris Bullen. "[A Near Miss: The Importance of Context in a 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cohen, Nevin. "What Works: Grameen Telecom's Village Phones." A Digital Dividend Study by the World Resources Institute, June 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.wri.org/dd_grameen.pdf))
+Cohen, Nevin. "What Works: Grameen Telecom's Village Phones." A Digital Dividend Study by the World Resources Institute, June 2001. ([PDF](http://pdf.wri.org/dd_grameen.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -201,7 +201,7 @@ Surana, Sonesh, et al. "Deploying a Rural Wireless Telemedicine System: Experien
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Medhi, Indrani, and Kentaro Toyama. "Full-Context Videos for First-Time, Non-Literate PC Users." Presented at CHI 2007, San Jose, CA: ACM, 2007. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ictd2007_medhi_toyama.pdf)
+Medhi, Indrani, and Kentaro Toyama. "Full-Context Videos for First-Time, Non-Literate PC Users." Presented at CHI 2007, San Jose, CA: ACM, 2007. ([PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ictd2007_medhi_toyama.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 [Video]({{< baseurl >}}/pages/lecture-videos/embed12_04)
@@ -252,7 +252,7 @@ Plauché, Madeline, and Udhyakumar Nallasamy. "Speech Interfaces for Equitable A
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Anantraman, V., et al. "Handheld Computers for Rural Healthcare: Experiences from Research Concept to Global Operations." _Proceedings of Development by Design_, 1-10. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://kaash.sourceforge.net/doc/dyd02.pdf))
+Anantraman, V., et al. "Handheld Computers for Rural Healthcare: Experiences from Research Concept to Global Operations." _Proceedings of Development by Design_, 1-10. ([PDF](http://kaash.sourceforge.net/doc/dyd02.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed14_02)
@@ -279,7 +279,7 @@ Clifford, G. D., J. A. Blaya, R. Hall-Clifford, and H. S. F. Fraser. "Medical In
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Derenzi, Brian, et al. "e-IMCI: Improving Pediatric Health Care in Low-income Countries." _CHI '08: Proceeding of the Twenty-sixth Annual SIGCHI Conference on Human Factors in Computing Systems_, 2008, pp. 753-762. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://courses.cs.washington.edu/courses/cse477/07au/papers/eIMCI.pdf))
+Derenzi, Brian, et al. "e-IMCI: Improving Pediatric Health Care in Low-income Countries." _CHI '08: Proceeding of the Twenty-sixth Annual SIGCHI Conference on Human Factors in Computing Systems_, 2008, pp. 753-762. ([PDF](https://courses.cs.washington.edu/courses/cse477/07au/papers/eIMCI.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -288,7 +288,7 @@ Derenzi, Brian, et al. "e-IMCI: Improving Pediatric Health Care in Low-income Co
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Fraser, H. S. F., et al. "An Information System and Medical Record to Support HIV Treatment in Rural Haiti." _British Medical Journal_ 329 (2004): 1142-1146. Formats: ([full text HTML](http://bmj.bmjjournals.com/cgi/content/full/bmj;329/7475/1142)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://medg.csail.mit.edu/people/hamish/hiv-emr-bmj.pdf))
+Fraser, H. S. F., et al. "An Information System and Medical Record to Support HIV Treatment in Rural Haiti." _British Medical Journal_ 329 (2004): 1142-1146. Formats: ([full text HTML](http://bmj.bmjjournals.com/cgi/content/full/bmj;329/7475/1142)) ([PDF](http://medg.csail.mit.edu/people/hamish/hiv-emr-bmj.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed14_04)
@@ -306,7 +306,7 @@ Malkin, Robert A. "[Technologies for Clinically Relevant Physiological Measureme
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Sherwani, J., et al. "HealthLine: Speech-based Access to Health Information by Low-literate Users." In _Proc. IEEE/ACM Int'l Conference on Information and Communication Technologies and Development_, Bangalore, India, December 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cmu.edu/~jsherwan/pubs/ictd07.pdf))
+Sherwani, J., et al. "HealthLine: Speech-based Access to Health Information by Low-literate Users." In _Proc. IEEE/ACM Int'l Conference on Information and Communication Technologies and Development_, Bangalore, India, December 2007. ([PDF](http://www.cs.cmu.edu/~jsherwan/pubs/ictd07.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed14_03)
@@ -315,7 +315,7 @@ Sherwani, J., et al. "HealthLine: Speech-based Access to Health Information by L
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Szot, A., et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-Cost Teleradiology." _Int J Med Inform_ 73 no. 1 (2004): 65-73. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://medg.lcs.mit.edu/people/hamish/IJMedInform-CXR.pdf))
+Szot, A., et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital Camera for Low-Cost Teleradiology." _Int J Med Inform_ 73 no. 1 (2004): 65-73. ([PDF](http://medg.lcs.mit.edu/people/hamish/IJMedInform-CXR.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed16)
@@ -330,7 +330,7 @@ Szot, A., et al. "Diagnostic Accuracy of Chest X-rays Acquired Using a Digital C
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Kam, Matthew, et al. "Localized Iterative Design for Language Learning in Underdeveloped Regions: the PACE Framework." In _CHI '07: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_. San Jose, CA: ACM, 2007, pp. 1097-1106. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://bid.berkeley.edu/files/papers/chi07_kam_ram.pdf))
+Kam, Matthew, et al. "Localized Iterative Design for Language Learning in Underdeveloped Regions: the PACE Framework." In _CHI '07: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_. San Jose, CA: ACM, 2007, pp. 1097-1106. ([PDF](http://bid.berkeley.edu/files/papers/chi07_kam_ram.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed19_01)
@@ -339,7 +339,7 @@ Kam, Matthew, et al. "Localized Iterative Design for Language Learning in Underd
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Kremer, Michael, and Edward Miguel. "Worms: Identifying Impacts on Health and Education in the Presence of Treatment Externalities." [Poverty Action Lab](http://www.povertyactionlab.com/), September, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://dss.ucsd.edu/~dlake/courses/PS204A/documents/MiguelandKremer.pdf))
+Kremer, Michael, and Edward Miguel. "Worms: Identifying Impacts on Health and Education in the Presence of Treatment Externalities." [Poverty Action Lab](http://www.povertyactionlab.com/), September, 2001. ( [PDF](http://dss.ucsd.edu/~dlake/courses/PS204A/documents/MiguelandKremer.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed19_02)
@@ -348,7 +348,7 @@ Kremer, Michael, and Edward Miguel. "Worms: Identifying Impacts on Health and Ed
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Leach, Jenny, et al. Selected chapters in _DEEP IMPACT: An Investigation of the Use of Information and Communication Technologies for Teacher Education in the Global South_. Department for International Development, 2005. Full report: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.9 MB](http://oro.open.ac.uk/17802/)); executive summary: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://oro.open.ac.uk/17802/))
+Leach, Jenny, et al. Selected chapters in _DEEP IMPACT: An Investigation of the Use of Information and Communication Technologies for Teacher Education in the Global South_. Department for International Development, 2005. Full report: ([PDF - 5.9 MB](http://oro.open.ac.uk/17802/)); executive summary: ([PDF](http://oro.open.ac.uk/17802/))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed19)
@@ -363,7 +363,7 @@ Leach, Jenny, et al. Selected chapters in _DEEP IMPACT: An Investigation of the 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Vodafone, Nokia, and Nokia-Siemens Networks. _The Transformational Potential of M-Transactions_, Policy Paper Series No. 6 (July 2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.findevgateway.org/paper/2007/07/transformational-potential-m-transactions))
+Vodafone, Nokia, and Nokia-Siemens Networks. _The Transformational Potential of M-Transactions_, Policy Paper Series No. 6 (July 2007). ([PDF](https://www.findevgateway.org/paper/2007/07/transformational-potential-m-transactions))
 {{< tdclose >}}
 {{< tdopen >}}
 [Video and slides]({{< baseurl >}}/pages/lecture-videos/embed20_01)
