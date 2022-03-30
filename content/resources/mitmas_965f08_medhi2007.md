@@ -4,6 +4,7 @@ description: This resource contains the information regarding text-Free user int
   for illiterate and semiliterate users .
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/8ccecb3eacd514b7ea0255f5158de907_MITMAS_965F08_medhi2007.pdf
 file_type: application/pdf
+parent_uid: 2c9b7772-d100-17e6-4d98-a3b676bffc0f
 resourcetype: Document
 title: 'Research Article: Text-Free User Interfaces for Illiterate and Semiliterate
   Users'

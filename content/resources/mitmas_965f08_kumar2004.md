@@ -5,6 +5,7 @@ description: 'This resource contains the information regarding Research eChoupal
   pradesh.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/cb65851b9ccbaf0f3675ba3a4b38b8d6_MITMAS_965F08_kumar2004.pdf
 file_type: application/pdf
+parent_uid: 2c9b7772-d100-17e6-4d98-a3b676bffc0f
 resourcetype: Document
 title: 'Research Article: eChoupals: A Study on the Financial Sustainability of Village
   Internet Centers in Rural Madhya Pradesh'

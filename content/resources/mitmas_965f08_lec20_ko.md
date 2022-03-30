@@ -4,6 +4,7 @@ description: This resource contains the information regarding the Transformation
   Potential of M-Transactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/353f78c89635755761e9f4851420e103_MITMAS_965F08_Lec20_ko.pdf
 file_type: application/pdf
+parent_uid: 2fea8c16-00d0-bf58-c7a4-ce2f92360b8e
 resourcetype: Document
 title: The Transformational Potential of M-Transactions
 uid: 353f78c8-9635-7557-61e9-f4851420e103

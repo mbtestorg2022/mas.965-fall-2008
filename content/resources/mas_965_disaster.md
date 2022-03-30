@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7b53ea3b-401e-0767-1816-c31fc0eee770
 resourcetype: Image
 title: mas_965_disaster.jpg
 uid: f17c7f70-7ff9-c543-546d-f5a5dde35a9c

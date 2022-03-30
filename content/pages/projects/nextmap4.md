@@ -23,7 +23,7 @@ Geocoding of the textual address is done via GeoKit ([https://github.com/glebm/g
 **Interface Snapshot**  
 October 21, 2008
 
-![](/courses/media-arts-and-sciences/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/projects/mas_965_disaster.jpg) 
+{{< resource "f17c7f70-7ff9-c543-546d-f5a5dde35a9c" >}} 
 
   
 Thinking about interfaces for viewing data in an interactive map - beyond Google Maps. This is done in Quartz Composer as a prototype - it draws on live map data from our server prototype.
